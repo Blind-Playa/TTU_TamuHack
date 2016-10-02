@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TTU_TamuHack.CSharp.Plugins", "TTU_TamuHack.CSharp.Plugins.csproj", "{C3E7ABC1-40E4-A912-EA48-A7316C145CF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TTU_TamuHack.CSharp", "TTU_TamuHack.CSharp.csproj", "{7DB294DC-D357-5B61-80FF-BC7346E788A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TTU_TamuHack.CSharp.Editor", "TTU_TamuHack.CSharp.Editor.csproj", "{2B9EC887-E89B-B1CB-01A8-3434832D6625}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3E7ABC1-40E4-A912-EA48-A7316C145CF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3E7ABC1-40E4-A912-EA48-A7316C145CF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3E7ABC1-40E4-A912-EA48-A7316C145CF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3E7ABC1-40E4-A912-EA48-A7316C145CF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DB294DC-D357-5B61-80FF-BC7346E788A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DB294DC-D357-5B61-80FF-BC7346E788A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DB294DC-D357-5B61-80FF-BC7346E788A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DB294DC-D357-5B61-80FF-BC7346E788A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B9EC887-E89B-B1CB-01A8-3434832D6625}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B9EC887-E89B-B1CB-01A8-3434832D6625}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B9EC887-E89B-B1CB-01A8-3434832D6625}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B9EC887-E89B-B1CB-01A8-3434832D6625}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
